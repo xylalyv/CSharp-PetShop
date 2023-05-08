@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\bin\Debug\net6.0\Pets.exe
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\bin\Debug\net6.0\Pets.deps.json
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\bin\Debug\net6.0\Pets.runtimeconfig.json
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\bin\Debug\net6.0\Pets.dll
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\bin\Debug\net6.0\Pets.pdb
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.dll
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\refint\Pets.dll
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.pdb
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\Pets.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\CSharp Pets\Pets\obj\Debug\net6.0\ref\Pets.dll
